@@ -13,6 +13,10 @@ public class FolderLister {
     public void listDirectoryRecursive(File directory, String indent, BufferedWriter writer) throws IOException {
         String[] fileList = directory.list();
 
+        if (fileList == null) {
+            return;
+        }
+
         Arrays.sort(fileList);
 
         for (String file : fileList) {
@@ -38,4 +42,3 @@ public class FolderLister {
         }
     }
 }
-
