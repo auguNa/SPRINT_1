@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/S1_01/S1_01.iml" filepath="$PROJECT_DIR$/S1_01/S1_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S1_02/S1_02.iml" filepath="$PROJECT_DIR$/S1_02/S1_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S1_03/S1_03.iml" filepath="$PROJECT_DIR$/S1_03/S1_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S1_04/S1_04.iml" filepath="$PROJECT_DIR$/S1_04/S1_04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S1_05/S1_05.iml" filepath="$PROJECT_DIR$/S1_05/S1_05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S1_06/S1_06.iml" filepath="$PROJECT_DIR$/S1_06/S1_06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S1_07/S1_07.iml" filepath="$PROJECT_DIR$/S1_07/S1_07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/S1_08/S1_08.iml" filepath="$PROJECT_DIR$/S1_08/S1_08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SPRINT_1.iml" filepath="$PROJECT_DIR$/SPRINT_1.iml" />
+    </modules>
+  </component>
+</project>
